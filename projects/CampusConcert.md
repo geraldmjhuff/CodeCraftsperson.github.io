@@ -18,7 +18,7 @@ summary: "A web-application that connects artists and musicians on Campus."
 
 ## Campus Concert: Where musicians alike can connect on Campus
 
-Envision a vibrant digital venue aimed at balancing the melodic gifts of University of Hawaii at Manoa students. This web-application connects artists on campus in a dynamic way, encouraging cooperation and innovation. Aspiring artists can display their abilities, musical tastes, and hobbies through easily navigable profiles, promoting a diversified talent community. Through the site, users can organize and host their own "concerts," form bands virtually, and invite other like-minded people to participate in the musical experience. Musicians may plan practices, arrange shows or practices, and connect with others who share their passion for music all through a smooth interface, which helps to grow the college music scene. Whether you're the next Bruno Mars or a budding pupil, Campus Concert is for everyone.
+Campus Concert is a web application designed to connect musicians within the campus of the University of Hawaii at Manoa. It enables students to create personalized profiles showcasing their musical skills, discover and connect with other musicians based on shared interests, and organize or join collaborative music sessions (“concerts”). The platform also includes features for browsing profiles, scheduling events, bookmarking sessions, and administrative management, making it a centralized hub for campus musical collaboration.
 
 <div class="text-center p-4">
   <img width="800px" src="../img/difficulty/CC-signin.png" class="img-thumbnail" >
