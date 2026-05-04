@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Gerald Huff",
+    "name": "Gerald Matthew J. Huff",
     "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/66655062?s=400&u=fcd7e2b59016064acc7c6c8d777e961a39e8e2b8&v=4",
     "email": "geraldh@hawaii.edu",
     "phone": "808-384-8765",
-    "website": "https://CodeCraftsperson.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Fall, 2025.",
+    "website": "https://geraldmjhuff.github.io/CodeCraftsperson.github.io/",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa.",
     "location": { "address": "91-974 Awawalei Pl.", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "CodeCraftsperson", "url": "http://github.com/CodeCraftsperson" },
+      { "network": "github", "username": "geraldmjhuff", "url": "https://github.com/geraldmjhuff" },
       { "network": "linkedin", "username": "Gerald Matthew Huff", "url": "http://linkedin.com/in/gerald-matthew-huff-344469272/" },
     ]
   },
