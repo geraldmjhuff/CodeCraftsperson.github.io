@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Vue.js", "Html", "CSS" ]
+      "keywords": [ "Python", "C", "C++", "Java", "Javascript", "Vue.js", "Html", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -32,10 +32,10 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2024)",
+      "area": "",
       "studyType": "B.S.",
       "startDate": "2022-08-21",
-      "endDate": "Present",
+      "endDate": "2026-05-10",
       "courses": [
       ]
     }
@@ -49,6 +49,12 @@
       "endDate": "2021-06-29",
       "summary": "Handled financial transactions, Order taker and disputer, handling phone calls",
     },
+    {
+      "company": "DoorDash",
+      "startDate": "2025-11-17",
+      "endDate": "Present",
+      "summary": "Handle food orders from restaurants and deliver them to customers, ensuring timely and accurate service while using the app to manage deliveries and navigation."
+    }
   ],
   "awards": [
     {
