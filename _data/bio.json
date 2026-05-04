@@ -32,7 +32,7 @@
   "education": [
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "",
+      "area": "Computer Science (Spring 2026)",
       "studyType": "B.S.",
       "startDate": "2022-08-21",
       "endDate": "2026-05-10",
@@ -48,7 +48,7 @@
       "startDate": "2017-11-17",
       "endDate": "2021-06-29",
       "summary": "Handled financial transactions, Order taker and disputer, handling phone calls",
-    },
+    }
     {
       "company": "DoorDash",
       "startDate": "2025-11-17",
