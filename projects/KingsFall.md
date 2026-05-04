@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/difficulty/concert.jpg
+image: img/KingsFall_boss1.png
 title: "The King's Fall"
 date: 2025
 published: true
