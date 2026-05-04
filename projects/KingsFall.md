@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/difficulty/concert.jpg
-title: "Kings Fall"
+title: "The King's Fall"
 date: 2025
 published: true
 labels:
@@ -13,7 +13,7 @@ summary: "The King's Fall, A 2D vertical hack n' slash puzzle platformer."
 ---
 
 <div class="text-center p-4">
-  <img width="800px" src="../img/difficulty/CC-main.png" class="img-thumbnail" >
+  <img width="800px" src="../img/KingsFall_boss1.png" class="img-thumbnail" >
 </div>
 
 ## The King's Fall
