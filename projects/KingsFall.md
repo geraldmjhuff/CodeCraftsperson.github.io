@@ -20,4 +20,4 @@ summary: "The King's Fall, A 2D vertical hack n' slash puzzle platformer."
 
 The Kings Fall is a 2D platformer where players focus on vertical progression by moving upwards through all the levels of the game. Players must avoid dying from enemy attacks, traps, hazards and falling to lower levels which resets progress back to that fallen point.
 
-Check out the documentation: [The King's Fall] (https://km584.github.io/SpaghettiCode.github.io/).
+Check out the documentation: [The King's Fall](https://km584.github.io/SpaghettiCode.github.io/).
