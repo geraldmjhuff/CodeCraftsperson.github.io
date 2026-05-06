@@ -14,7 +14,7 @@ summary: "Integrated and extended a sentiment analysis pipeline within an open-s
 ---
 
 <div class="text-center p-4">
-  <img width="800px" src="../img/your-image-here.png" class="img-thumbnail" >
+  <img width="800px" src="../img/SentimentAnalysis.png" class="img-thumbnail" >
 </div>
 
 ## Overview
