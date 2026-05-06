@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/browseprofiles.png
-title: "Campus Concert App"
+title: "Campus Concert - Full-Stack Music Collaboration Platform"
 date: 2023
 published: true
 labels:
