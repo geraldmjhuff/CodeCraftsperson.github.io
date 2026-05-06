@@ -10,7 +10,7 @@ labels:
   - NLP
   - Open Source
   - Software Engineering
-summary: "Integrated and extended a sentiment analysis pipeline within an open-source analytics platform, enabling analysis of developer communication across GitHub, Jira, and mailing lists."
+summary: "Integrated and extended a sentiment analysis pipeline within an open-source analytics platform. The feature enables identification of communication patterns that may impact project health and collaboration."
 ---
 
 <div class="text-center p-4">
@@ -19,7 +19,7 @@ summary: "Integrated and extended a sentiment analysis pipeline within an open-s
 
 ## Overview
 
-Contributed to Kaiaulu, an open-source software analytics platform, by integrating and extending a sentiment analysis pipeline to analyze developer communication across sources such as GitHub, Jira, and mailing lists. The feature enables identification of communication patterns that may impact project health and collaboration.
+Independently extended and integrated a sentiment analysis pipeline into Kaiaulu, an open-source software analytics platform, building upon prior work to enable analysis of developer communication across GitHub, Jira, and mailing lists. The feature supports identification of communication patterns that may impact project health and collaboration.
 
 ## Tech Stack
 
