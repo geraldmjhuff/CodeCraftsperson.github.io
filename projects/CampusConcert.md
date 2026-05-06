@@ -22,10 +22,11 @@ Campus Concert is a full-stack web application built for students at the Univers
 
 ## Tech Stack
 
-- Frontend: Meteor (Blaze), HTML, CSS, JavaScript
-- Backend: Meteor (Node.js)
-- Database: MongoDB
-- Testing: Mocha (Meteor testing framework)
+- **Full-Stack Platform:** Meteor (full-stack JavaScript platform for client and server code)
+- **Frontend:** React, React Bootstrap, HTML, CSS  
+- **UI Forms:** Uniforms (React form library)  
+- **Database:** MongoDB  
+- **Testing:** Mocha (JavaScript testing framework used with Meteor)  
 
 ## My Contributions
 
