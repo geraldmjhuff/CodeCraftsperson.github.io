@@ -22,17 +22,17 @@ Campus Concert is a full-stack web application built for students at the Univers
 
 ## Tech Stack
 
-- Frontend: (add this — e.g., React, Blaze, etc.)
-- Backend: (Node.js? Meteor? Express?)
-- Database: (MongoDB? PostgreSQL?)
-- Testing: (what did you use?)
+- Frontend: Meteor (Blaze), HTML, CSS, JavaScript
+- Backend: Meteor (Node.js)
+- Database: MongoDB
+- Testing: Mocha (Meteor testing framework)
 
 ## My Contributions
 
-- Implemented authentication flow (sign up, login, logout)
-- Developed and tested core user features (profile browsing, session management)
-- Wrote automated tests for key pages and user flows
-- Improved UI/UX for better usability and navigation
+- Implemented user authentication using Meteor Accounts, enabling secure login and session management
+- Built core features such as profile browsing and event/session creation and participation
+- Wrote automated tests covering authentication flows and critical user interactions
+- Improved UI structure and navigation for a smoother user experience across major pages
 
 ## Key Features
 
