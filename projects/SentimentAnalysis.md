@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/browseprofiles.png
+image: img/Kaiaulu.jpg
 title: "Kaiaulu Sentiment Analysis - NLP Pipeline Integration"
 date: 2025
 published: true
