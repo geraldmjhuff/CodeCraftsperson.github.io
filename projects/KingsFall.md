@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/The King's Fall.jpg
-title: "The King's Fall"
+title: "The King's Fall - 2D Unity vertical Combat Platformer"
 date: 2025
 published: true
 labels:
