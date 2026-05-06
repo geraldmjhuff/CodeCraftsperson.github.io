@@ -28,7 +28,7 @@ The King’s Fall is a 2D vertical platformer where players progress upward thro
 
 ## My Contributions
 
-- Designed and implemented sprite animations for characters and enemies using Unity Animator
+- Implemented sprite animations using public sprite sheets for characters and enemies using Unity Animator
 - Developed combat and interaction systems, including hitboxes, damage handling, and collision detection
 - Built environmental mechanics such as traps, hazards, and platform interactions
 - Implemented player–environment and player–enemy collision systems using Unity physics
