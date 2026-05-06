@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/othelloTNR.jpg
 title: "Othello reenactment"
 date: 2017
-published: true
+published: false
 labels:
   - Acting
   - Directing
