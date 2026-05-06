@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/KingsFall_boss1.png
+image: img/The King's Fall.jpg
 title: "The King's Fall"
 date: 2025
 published: true
