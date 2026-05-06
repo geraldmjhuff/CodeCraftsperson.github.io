@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/difficulty/concert.jpg
+image: img/browseprofiles.png
 title: "Campus Concert App"
 date: 2023
 published: true
