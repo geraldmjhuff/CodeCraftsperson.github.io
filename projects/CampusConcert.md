@@ -53,5 +53,5 @@ Campus Concert is a full-stack web application built for students at the Univers
 
 ## Links
 
-Check out the documentation: [Campus Concert documentation](https://campus-concert.github.io/).
+Check out the documentation: [Campus Concert documentation](https://campus-concert.github.io/).<br>
 Codebase can be found [here](https://github.com/campus-concert/campus-concert).
