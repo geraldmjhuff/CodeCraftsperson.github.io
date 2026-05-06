@@ -36,7 +36,7 @@ Contributed to Kaiaulu, an open-source software analytics platform, by integrati
 - Enabled sentiment analysis across developer communication sources (GitHub issues, pull requests, Jira, and mailing lists)
 - Preserved original model intent while restructuring code to align with platform constraints and extensibility requirements
 - Conducted testing, debugging, and iterative development within an open-source workflow
-- Led design discussions with project sponsor, using architectural diagrams to communicate implementation strategy and continuously refine system integration
+- Led design discussions with project sponsor, using architectural diagrams to communicate implementation strategy and continuously refine code integration
 
 ## Challenges & Decisions
 
