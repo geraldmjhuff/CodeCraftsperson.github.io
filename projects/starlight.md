@@ -4,7 +4,7 @@ type: project
 image: ../img/micromouse/starlightTNR.jpg
 title: "Starlight lyric video"
 date: 2019
-published: true
+published: false
 labels:
   - Lyrics
   - Youtube
