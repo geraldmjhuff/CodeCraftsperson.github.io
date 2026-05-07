@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/genshin impact website.jpg
-title: "Genshin Impact Character Select Website"
+title: "Interactive Character Selection UI - Based on game Genshin Impact"
 date: 2022
 published: true
 labels:
@@ -29,11 +29,12 @@ A frontend web application that displays characters from *Genshin Impact*, organ
 ## My Contributions
 
 - Built the entire frontend using vanilla HTML, CSS, and JavaScript (no frameworks)
-- Implemented interactive hover effects to reveal character visuals and details
+- Implemented interactive hover effects to reveal character visuals and details 
 - Designed UI transitions where character silhouettes animate into full images
 - Added dynamic background changes based on character element types
 - Integrated audio toggle functionality for background music
 - Structured content by region for organized navigation
+- Visuals completely made with CSS
 
 ## Key Features
 
