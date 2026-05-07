@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/The King's Fall.jpg
-title: "The King's Fall - 2D Unity vertical Combat Platformer"
+title: "The King's Fall - 2D Unity Vertical Combat Platformer"
 date: 2025
 published: true
 labels:
@@ -47,9 +47,9 @@ The King’s Fall is a 2D vertical platformer where players progress upward thro
 
 - Balanced combat responsiveness with platforming precision to maintain fluid gameplay
 - Designed collision and damage systems to feel fair while maintaining difficulty
-- Coordinated animation and gameplay systems to ensure smooth player feedback during combat
+- Coordinated animation and gameplay systems to ensure discrete player feedback during combat
 
 ## Links
 
-- Documentation: [The King's Fall](https://km584.github.io/SpaghettiCode.github.io/)
+- Check out the documentation: [The King's Fall](https://km584.github.io/SpaghettiCode.github.io/)
 - Playable Build: [The King's Fall .zip](https://km584.github.io/SpaghettiCode.github.io/downloads/kings-fall.zip)
