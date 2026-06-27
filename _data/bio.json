@@ -1,69 +1,128 @@
 {
   "basics": {
     "name": "Gerald Matthew J. Huff",
-    "label": "Student",
+    "label": "Software Engineer",
     "picture": "https://avatars.githubusercontent.com/u/66655062?s=400&u=fcd7e2b59016064acc7c6c8d777e961a39e8e2b8&v=4",
-    "email": "geraldh@hawaii.edu",
+    "email": "geraldmjhuff@gmail.com",
     "phone": "808-384-8765",
     "website": "https://geraldmjhuff.github.io/CodeCraftsperson.github.io/",
-    "summary": "Graduated with a B.S. in Computer Science from the University of Hawaiʻi at Mānoa with experience in full-stack development.",
-    "location": { "address": "91-974 Awawalei Pl.", "postalCode": "96706", "city": "Ewa Beach", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Software engineer proficient in Python, C++, Java, JavaScript, and SQL, with hands-on experience in React, Node.js, and GraphQL. Skilled in writing clean, well-tested code and managing version control with Git/GitHub and CI/CD pipelines. Adept at debugging, refactoring, and optimizing codebases for performance and maintainability. Solid understanding of data structures, algorithms, and system design fundamentals.",
+    "location": {
+      "city": "Honolulu",
+      "region": "Hawaii",
+      "countryCode": "USA"
+    },
     "profiles": [
-      { "network": "github", "username": "geraldmjhuff", "url": "https://github.com/geraldmjhuff" },
-      { "network": "linkedin", "username": "Gerald Matthew Huff", "url": "http://linkedin.com/in/gerald-matthew-huff-344469272/" },
+      {
+        "network": "GitHub",
+        "username": "geraldmjhuff",
+        "url": "https://github.com/geraldmjhuff"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Gerald Matthew Huff",
+        "url": "https://linkedin.com/in/gerald-matthew-huff-344469272/"
+      }
     ]
   },
-  "interests": [
-    { "name": "Web designing" },
-    { "name": "Software Engineering" },
-    { "name": "Video games" },
-    { "name": "Gym" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C", "C++", "Java", "Javascript", "Vue.js", "Html", "CSS" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub"]
-    }
-  ],
+
   "education": [
     {
-      "institution": "University of Hawaii at Manoa, Honolulu, HI",
-      "area": "Computer Science (Spring 2026)",
+      "institution": "University of Hawaii at Manoa",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2022-08-21",
-      "endDate": "2026-05-10",
+      "startDate": "2022-01",
+      "endDate": "2026-05",
       "courses": [
+        "Software Engineering",
+        "Operating Systems",
+        "Algorithms and Data Structures",
+        "Database Systems",
+        "Data Networks",
+        "Concurrent Programming",
+        "Software Quality Assurance",
+        "Discrete Mathematics",
+        "Linear Algebra"
       ]
     }
   ],
-  "work": [
+
+  "skills": [
     {
-      "company": "L&L Hawaiian Barbecue",
-      "position": "Financial Transactions clerk",
-      "website": "",
-      "startDate": "2017-11-17",
-      "endDate": "2021-06-29",
-      "summary": "Handled financial transactions, Order taker and disputer, handling phone calls"
+      "name": "Languages",
+      "keywords": [
+        "Python",
+        "C++",
+        "Java",
+        "SQL",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ]
     },
     {
-      "company": "DoorDash",
-      "startDate": "2025-11-17",
-      "endDate": "Present",
-      "summary": "Handle food orders from restaurants and deliver them to customers, ensuring timely and accurate service while using the app to manage deliveries and navigation."
+      "name": "Libraries & Frameworks",
+      "keywords": [
+        "React",
+        "Node.js",
+        "GraphQL"
+      ]
+    },
+    {
+      "name": "Developer Tools",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "GitHub Actions",
+        "CI/CD",
+        "Visual Studio Code"
+      ]
     }
   ],
-  "awards": [
+
+  "projects": [
     {
-      "title": "Cum laude graduate",
-      "date": "2017",
-      "awarder": "James Campbell High School",
-      "summary": "Title awarded to graduating seniors who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "name": "Sentiment Analysis",
+      "description": "Open-source contribution to Kaiaulu analytics platform.",
+      "highlights": [
+        "Integrated transformer-based sentiment analysis into Kaiaulu using Python and Git.",
+        "Built a sentiment analysis pipeline for developer comments from JIRA, GitHub, and mailing lists.",
+        "Implemented models including BERT, XLNet, RoBERTa, and ALBERT.",
+        "Structured the pipeline with modular design principles and clear documentation."
+      ]
     },
+    {
+      "name": "Campus Concert",
+      "description": "Full-stack web application for UH Mānoa students to connect with musicians and organize music sessions.",
+      "highlights": [
+        "Built features for profiles, events, and session participation.",
+        "Implemented secure authentication using Node.js.",
+        "Wrote Mocha unit tests and integrated them into a CI/CD pipeline with GitHub Actions.",
+        "Collaborated on a UI overhaul to improve navigation.",
+        "Conducted code reviews and maintained frontend (React) and backend (Node.js) code quality."
+      ]
+    },
+    {
+      "name": "The King's Fall",
+      "description": "2D Unity platformer game.",
+      "highlights": [
+        "Developed challenging platforming and combat mechanics.",
+        "Programmed collision, animation, and combat systems.",
+        "Created hazards, traps, and platform mechanics.",
+        "Implemented boss mechanics and tuned movement physics."
+      ]
+    }
   ],
+
+  "interests": [
+    { "name": "Software Engineering" },
+    { "name": "Full-Stack Development" },
+    { "name": "Game Development" },
+    { "name": "Web Design" },
+    { "name": "Open Source" },
+    { "name": "Gym" }
+  ],
+
   "references": [
     {
       "name": "Available upon request"
